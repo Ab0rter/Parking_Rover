@@ -11,8 +11,11 @@ Rover dotato di Mecanum Wheels, ovvero ruote che permettono operazioni come tras
   <li> 5 HC-SR04 (Sensori ad ultrasuoni)
 </ul>
 
+</br>
+<h2>Meccanica</h2>
+Le 4 ruote mecanum vanno montate nella giusta direzione: fare affidamento all'<a href="https://github.com/Ab0rter/Parking_Rover/blob/main/Mecanum%20Wheels%20Orientation.jpeg">immagine</a> 
 
-</br></br>
+</br>
 <h2>Software</h2>
 Il progetto è realizzato mediante platformio in Visual Studio Code.
 <h3>Librerie esterne necessarie</h3>
